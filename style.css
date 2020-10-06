@@ -1,0 +1,33 @@
+.twittericon {
+    margin-top: 20px;
+    margin-left: 0px;
+}
+.container{
+    margin-right: unset;
+    margin-left: unset;
+}
+h3 {
+    display: inline;
+}
+
+.profile {
+    border-radius: 50%;
+}
+.media {
+    margin-top: 20px;
+}
+.at {
+    color: gray;
+}
+.star {
+    float: right;
+}
+h5 {
+    display: inline;
+}
+.happening {
+    color: gray;
+}
+.rectangle {
+    color: gray;
+}
